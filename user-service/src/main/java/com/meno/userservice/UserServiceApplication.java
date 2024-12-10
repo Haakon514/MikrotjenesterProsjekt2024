@@ -1,13 +1,11 @@
-package com.example.microservices2024hagu021;
+package com.meno.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Microservices2024Hagu021Application {
-
+public class UserServiceApplication {
     public static void main(String[] args) {
-        SpringApplication.run(Microservices2024Hagu021Application.class, args);
+        SpringApplication.run(UserServiceApplication.class, args);
     }
-
 }

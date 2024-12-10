@@ -1,10 +1,10 @@
-package com.example.microservices2024hagu021;
+package com.example.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Microservices2024Hagu021ApplicationTests {
+class UserServiceApplicationTests {
 
     @Test
     void contextLoads() {

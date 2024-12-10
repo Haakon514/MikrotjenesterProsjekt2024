@@ -1,13 +1,13 @@
-package com.example.microservices2024hagu021;
+package com.example.communityservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Microservices2024Hagu021Application {
+public class CommunityServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Microservices2024Hagu021Application.class, args);
+        SpringApplication.run(CommunityServiceApplication.class, args);
     }
 
 }
